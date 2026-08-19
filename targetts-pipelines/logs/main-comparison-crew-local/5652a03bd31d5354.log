@@ -1,0 +1,43 @@
+R version 4.5.2 (2025-10-31 ucrt)
+• Platform: x86_64-w64-mingw32/x64
+• Running under: Windows 11 x64 (build 26200)
+• 
+• Matrix products: default
+•   LAPACK version 3.12.1
+• 
+• locale:
+• [1] LC_COLLATE=Danish_Denmark.utf8  LC_CTYPE=Danish_Denmark.utf8   
+• [3] LC_MONETARY=Danish_Denmark.utf8 LC_NUMERIC=C                   
+• [5] LC_TIME=Danish_Denmark.utf8    
+• 
+• time zone: Europe/Copenhagen
+• tzcode source: internal
+• 
+• attached base packages:
+• [1] stats     graphics  grDevices utils     datasets  methods   base     
+• 
+• loaded via a namespace (and not attached):
+•  [1] mirai_2.7.0         later_1.4.5         R6_2.6.1           
+•  [4] tidyselect_1.2.1    magrittr_2.0.4      crew_1.3.1         
+•  [7] glue_1.8.0          nanonext_1.9.1      tibble_3.3.1       
+• [10] pkgconfig_2.0.3     lifecycle_1.0.5     ps_1.9.1           
+• [13] promises_1.5.0      cli_3.6.5           processx_3.8.6     
+• [16] vctrs_0.7.1         data.table_1.18.2.1 compiler_4.5.2     
+• [19] rstudioapi_0.18.0   tools_4.5.2         pillar_1.11.1      
+• [22] Rcpp_1.1.1          collections_0.3.12  otel_0.2.0         
+• [25] rlang_1.1.7        
+riskRegression version 2025.09.17
+
+Vedhæfter pakke: 'survival'
+
+De følgende objekter er maskerede fra 'package:sampling':
+
+    cluster, strata
+
+
+ randomForestSRC 3.5.1 
+ 
+ Type rfsrc.news() to see new features, changes, and bug fixes. 
+ 
+
+crew worker finished normally with mirai message: 0 | Daemon connection terminated

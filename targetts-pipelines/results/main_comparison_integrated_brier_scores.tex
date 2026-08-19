@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\caption{Integrated Brier scores at the maximum evaluation time.}
+\label{tab:integrated-brier-scores}
+\begin{tabular}{lccc}
+\hline
+Model & MGUS2 & Rotterdam & PBC \\
+\hline
+Cox proportional hazards & 0.146 & 0.104 & 0.128 \\
+Random survival forest & 0.140 & 0.099 & 0.128 \\
+\hline
+Poisson Super Learner & 0.140 & 0.104 & 0.121 \\
+Discrete Poisson Super Learner & 0.141 & 0.100 & 0.115 \\
+\hline
+GLMnet & 0.146 & 0.104 & 0.129 \\
+GAM & 0.142 & 0.100 & 0.123 \\
+XGBoost 1 & 0.141 & 0.102 & 0.125 \\
+XGBoost 2 & 0.143 & 0.101 & 0.128 \\
+XGBoost 3 & 0.150 & 0.284 & 0.311 \\
+HAL (two-way) & 0.141 & 0.101 & 0.136 \\
+HAL (three-way) & 0.141 & 0.101 & 0.132 \\
+\hline
+\end{tabular}
+\end{table}
